@@ -13,7 +13,7 @@ class Signup_SO_Onboarding():
     #################################  launch Chrome server  #################################
 
     driver = None
-    #test
+    # test
 
     def __init__(self, driver):
         self.driver = driver
